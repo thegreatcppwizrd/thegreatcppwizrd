@@ -1,21 +1,12 @@
-I'm currently learning C++ and hoping to learn Vulkan, OpenGL, DirectX 11, Metal, C, C#, Linux, and Git.
+# Hi, I'm Yahya!
 
-## Currently Learning
+I'm currently learning **C++** and expanding my knowledge of software development, graphics programming, and cloud computing.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/>
-</p>
+## Currently Learning & Future Goals
 
-## Hoping to Learn
+* **Programming:** C++, C# and .NET
+* **Graphics APIs:** Vulkan, OpenGL, DirectX and Metal
+* **Tools & Systems:** Git and Linux
+* **Cloud Computing:** Microsoft Azure
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vulkan/vulkan-original.svg" width="50" alt="Vulkan"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" width="50" alt="OpenGL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/>
-  <br/>
-  <img src="https://img.shields.io/badge/DirectX%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="DirectX 11"/>
-  <img src="https://img.shields.io/badge/Metal-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Metal"/>
-</p>
+I'm particularly interested in **C++ game development, graphics programming, and low-level programming**.
