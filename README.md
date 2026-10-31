@@ -1,5 +1,3 @@
-# Hi, I'm Yahya!
-
 I'm currently learning **C++** and expanding my knowledge of software development, graphics programming, and cloud computing.
 
 ## Currently Learning & Future Goals
